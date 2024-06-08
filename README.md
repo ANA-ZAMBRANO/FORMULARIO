@@ -1,2 +1,3 @@
 # FORMULARIO
-![image](https://github.com/ANA-ZAMBRANO/FORMULARIO/assets/169195758/c6cff644-1d03-4ded-8c80-064d39a55eef)
+![image](https://github.com/ANA-ZAMBRANO/FORMULARIO/assets/169195758/71ae360f-9508-4ad0-af35-4193c692361d)
+
