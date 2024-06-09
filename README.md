@@ -10,7 +10,7 @@ Sobrescribir los métodos init(), start(Stage primaryStage), y stop().
 
 En el método start, creo controles como HBox y VBox.
 
-Aplicar estilos a los controles y al layout.
+Aplico estilos a los controles y al layout.
 
 Creo una Scene y establecerla en el Stage principal.
 
